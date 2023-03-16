@@ -3345,6 +3345,26 @@ input:-internal-autofill-selected {
   
 }
 
+/* Cybermap-ifram */
 
 
+.container-px-lg-5{
+  background-color: #212529 !important;
+  padding-left: 30%;
+}
+#iframe-cyber{
+ padding-top: 0%;
+  max-width: 150%;
+  max-height: 100%; 
   
+  
+}
+
+
+/* 
+#background {
+  /* position: fixed; */
+  /* background-image: url('background.jpg'); */
+  /* background-size: cover; */
+  /* background-position: center;
+}   */
