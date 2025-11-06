@@ -156,4 +156,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://kinght-code.github.io/MY-Portfolio-MD-Ahnaf-Shahariar/</loc>
+    <lastmod>2025-11-05T11:45:37+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://kinght-code.github.io/MY-Portfolio-MD-Ahnaf-Shahariar/Ahnaf-Personal-Portfolio_files/Resume-MD-Ahnaf-Shahariar.pdf</loc>
+    <lastmod>2025-11-05T11:45:37+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
