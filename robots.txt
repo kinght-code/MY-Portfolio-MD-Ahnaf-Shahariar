@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://kinght-code.github.io/MY-Portfolio-MD-Ahnaf-Shahariar/Ahnaf-Personal-Portfolio_files/sitemap_index.xml
